@@ -1,13 +1,13 @@
-# node-socket-communication
+# socket-chat-node
 
-Demonstração de chat utilizando o protocolo Socket com Javascript.
+Demonstration how to use Socket in Javascript to create a simple web chat
 
 <img src="https://github.com/LeTarzan/node-socket-communication/blob/master/assets/l.PNG" width="600" height="600" />
 
-### Instalação
+### Installation
 
 ```sh
-$ git clone https://github.com/LeTarzan/node-socket-communication.git
+$ git clone https://github.com/LeTarzan/socket-chat-node.git
 $ npm install
 $ npm start
 ```
